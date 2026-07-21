@@ -1,0 +1,20 @@
+# Secrets / tokens / local target lists
+*.token
+*.jwt
+.env
+.env.*
+targets.txt
+users.txt
+*.csv
+*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# PowerShell
+*.ps1xml.bak
