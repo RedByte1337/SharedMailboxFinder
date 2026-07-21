@@ -1,3 +1,7 @@
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/RedByte1337?style=flat&logo=githubsponsors)](https://github.com/sponsors/RedByte1337)
+[![Twitter](https://img.shields.io/twitter/follow/RedByte1337?label=RedByte1337&style=social)](https://twitter.com/intent/follow?screen_name=RedByte1337)
+[![LinkedIn](https://img.shields.io/badge/in-Keanu_Nys-white?style=flat&logoColor=blue&labelColor=blue)](https://www.linkedin.com/in/keanunys/)
+
 # SharedMailboxFinder
 
 Finds mailboxes you can access with a Microsoft Graph token. Handy for spotting shared / delegated mailboxes during M365 assessments.
